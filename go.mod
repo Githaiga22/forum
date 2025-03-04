@@ -1,4 +1,4 @@
-module github.com/jesee-kuya/forum
+module github.com/Githaiga22/forum
 
 go 1.23.4
 
