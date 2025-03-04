@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/jesee-kuya/forum/backend/route"
-	"github.com/jesee-kuya/forum/backend/util"
+	"github.com/Githaiga22/forum/backend/route"
+	"github.com/Githaiga22/forum/backend/util"
 )
 
 func main() {
