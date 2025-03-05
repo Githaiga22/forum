@@ -18,7 +18,7 @@ func main() {
 	}
 
 	util.Init()
-	defer util.DB.Close()
+	defer util.Database.Close()
 
 	port, err := util.ValidatePort()
 	if err != nil {
