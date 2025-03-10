@@ -14,7 +14,7 @@ This project is a web forum that allows users to communicate, share posts, comme
 
 ## Technologies Used
 
-- **Language:** Go (Golang), HTML, CSS javascript
+- **Language:** Go (Golang), HTML, CSS, javascript
 - **Database:** SQLite
   - SQLite is chosen for its simplicity as an embedded database and ease of integration in web applications.
 - **Authentication and Session Management:**
