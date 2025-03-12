@@ -87,4 +87,4 @@ Contribution
 To make a contribution to the project, open an issue with a title, a tag, and a description of your idea on the repository issues' page.
 
 License
-This project is licensed under MIT. ```
+This project is licensed under MIT. 
